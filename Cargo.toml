@@ -1,0 +1,9 @@
+[package]
+name = "rewriting_rule"
+version = "0.1.0"
+authors = ["Hogeyama <gan13027830@gmail.com>"]
+
+[dependencies]
+combine = "3.6.6"
+combine-language = "3.0.1"
+
